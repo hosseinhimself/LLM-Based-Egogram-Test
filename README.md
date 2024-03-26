@@ -1,12 +1,13 @@
 # Egogram Test using Large Language Models
 
-This repository contains a Python notebook (`LLM_Based_Egogram_test.ipynb`) for conducting an egogram test using Gemini large language model (LLM). The test is designed to determine the egogram (child, adult, parent) of an individual based on their responses to a set of questions related to emotions, personality traits, and hypothetical situations.
+This repository contains a Python notebook (`LLM_Based_Egogram_test.ipynb`) for conducting an egogram test using **Gemini** large language model (LLM). The test is designed to determine the egogram (child, adult, parent) of an individual based on their responses to a set of questions related to emotions, personality traits, and hypothetical situations.
 
 ## Requirements
 
 To run the notebook, ensure you have the following dependencies installed:
 - `langchain`
 - `langchain-google-genai`
+  
 You can install them using pip:
 
 ```bash
