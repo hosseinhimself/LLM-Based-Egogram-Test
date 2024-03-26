@@ -23,7 +23,7 @@ The notebook consists of the following components:
 
 ### Prompts
 
-- **Initial Task Prompt**: This prompt asks the user to generate a set of questions for the egogram test. The questions should be formatted with a numbering system (e.g., Q1, Q2, ..., Q20) and must cover emotions, personality traits, and hypothetical situations.
+- **Initial Task Prompt**: This prompt asks Gemini to generate a set of questions for the egogram test. The questions should be formatted with a numbering system (e.g., Q1, Q2, ..., Q20) and must cover emotions, personality traits, and hypothetical situations.
 - **Welcome Message**: This message welcomes the user and provides instructions on how to answer the questions.
 - **Results Prompt**: This prompt is used to display the results of the egogram test. It provides guidelines on interpreting the results and formatting the output.
 
